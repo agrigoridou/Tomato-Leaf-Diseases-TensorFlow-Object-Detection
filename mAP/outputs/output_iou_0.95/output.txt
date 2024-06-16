@@ -1,0 +1,61 @@
+# AP and precision/recall per class
+0.00% = Tomato_Bacterial_spot AP 
+ Precision: []
+ Recall :[]
+
+0.00% = Tomato_Early_blight AP 
+ Precision: ['0.00', '0.00', '0.00', '0.00', '0.00', '0.00']
+ Recall :['0.00', '0.00', '0.00', '0.00', '0.00', '0.00']
+
+0.00% = Tomato_Late_blight AP 
+ Precision: ['0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00']
+ Recall :['0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00']
+
+0.00% = Tomato_Leaf_Mold AP 
+ Precision: ['0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00']
+ Recall :['0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00', '0.00']
+
+10.00% = Tomato_Septoria_leaf_spot AP 
+ Precision: ['0.00', '0.50', '0.33', '0.25', '0.20', '0.17', '0.14', '0.12', '0.11']
+ Recall :['0.00', '0.20', '0.20', '0.20', '0.20', '0.20', '0.20', '0.20', '0.20']
+
+0.00% = Tomato_Spider_mites_Two_spotted_spider_mite AP 
+ Precision: ['0.00', '0.00', '0.00']
+ Recall :['0.00', '0.00', '0.00']
+
+0.00% = Tomato__Tomato_YellowLeaf__Curl_Virus AP 
+ Precision: ['0.00', '0.00']
+ Recall :['0.00', '0.00']
+
+0.00% = Tomato__Tomato_mosaic_virus AP 
+ Precision: ['0.00', '0.00', '0.00', '0.00']
+ Recall :['0.00', '0.00', '0.00', '0.00']
+
+0.00% = Tomato_healthy AP 
+ Precision: ['0.00', '0.00', '0.00']
+ Recall :['0.00', '0.00', '0.00']
+
+
+# mAP of all classes
+mAP = 1.11%
+
+# Number of ground-truth objects per class
+Tomato_Bacterial_spot: 5
+Tomato_Early_blight: 5
+Tomato_Late_blight: 5
+Tomato_Leaf_Mold: 5
+Tomato_Septoria_leaf_spot: 5
+Tomato_Spider_mites_Two_spotted_spider_mite: 5
+Tomato__Tomato_YellowLeaf__Curl_Virus: 5
+Tomato__Tomato_mosaic_virus: 5
+Tomato_healthy: 5
+
+# Number of detected objects per class
+Tomato_Early_blight: 6 (tp:0, fp:6)
+Tomato_Late_blight: 8 (tp:0, fp:8)
+Tomato_Leaf_Mold: 10 (tp:0, fp:10)
+Tomato_Septoria_leaf_spot: 9 (tp:1, fp:8)
+Tomato_Spider_mites_Two_spotted_spider_mite: 3 (tp:0, fp:3)
+Tomato__Tomato_YellowLeaf__Curl_Virus: 2 (tp:0, fp:2)
+Tomato__Tomato_mosaic_virus: 4 (tp:0, fp:4)
+Tomato_healthy: 3 (tp:0, fp:3)
