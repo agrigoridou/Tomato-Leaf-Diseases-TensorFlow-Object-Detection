@@ -52,7 +52,7 @@ This repository contains code for detecting tomato leaf diseases using TensorFlo
     # Run training and save the model in TensorFlow Lite format
     ```
 
-# Test
+## Test
 
 1. Test the TensorFlow Lite model:
 
@@ -66,7 +66,7 @@ This repository contains code for detecting tomato leaf diseases using TensorFlo
     <img src="https://github.com/athanasiagrigoridou/Tomato-Leaf-Diseases-TensorFlow-Object-Detection/assets/167294620/38607735-eea9-42a5-912c-4717f9d66c2f" alt="Example GIF">
 </div>
 
-# mean Average Precision
+## mean Average Precision
 
 1. Calculate mAP (mean Average Precision):
 
