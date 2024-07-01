@@ -26,7 +26,9 @@ This repository contains code for detecting tomato leaf diseases using TensorFlo
     # Additional setup steps as per your environment requirements
     ```
 
-3. Upload your image dataset and prepare training data:
+## Training 
+
+1. Upload your image dataset and prepare training data:
 
     ```python
     from google.colab import drive
@@ -38,32 +40,35 @@ This repository contains code for detecting tomato leaf diseases using TensorFlo
     !unzip -q images.zip -d /content
     ```
 
-4. Customize the training configuration:
+2. Customize the training configuration:
 
     ```python
     # Modify model configurations, batch size, and other parameters
     ```
 
-5. Train the custom TensorFlow Lite detection model:
+3. Train the custom TensorFlow Lite detection model:
 
     ```python
     # Run training and save the model in TensorFlow Lite format
     ```
 
-6. Test the TensorFlow Lite model:
+# Test
+
+1. Test the TensorFlow Lite model:
 
     ```python
     # Perform inference with the TFLite model on test images
     ```
     
-# Result
+### Example Results from Testing
 
 <div align="center">
     <img src="https://github.com/athanasiagrigoridou/Tomato-Leaf-Diseases-TensorFlow-Object-Detection/assets/167294620/38607735-eea9-42a5-912c-4717f9d66c2f" alt="Example GIF">
 </div>
 
+# mean Average Precision
 
-7. Calculate mAP (mean Average Precision):
+1. Calculate mAP (mean Average Precision):
 
     ```bash
     # Run mAP calculation on detection results
