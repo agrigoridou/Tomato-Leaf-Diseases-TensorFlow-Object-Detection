@@ -56,7 +56,8 @@ This repository contains code for detecting tomato leaf diseases using TensorFlo
     # Perform inference with the TFLite model on test images
     ```
     
-![leafDeseases](https://github.com/athanasiagrigoridou/Tomato-Leaf-Diseases-TensorFlow-Object-Detection/assets/167294620/b7cdaafb-83ff-4ca0-8f09-a131aeed9408)
+
+![Untitled video - Made with Clipchamp](https://github.com/athanasiagrigoridou/Tomato-Leaf-Diseases-TensorFlow-Object-Detection/assets/167294620/38607735-eea9-42a5-912c-4717f9d66c2f)
 
 
 
