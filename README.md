@@ -57,8 +57,9 @@ This repository contains code for detecting tomato leaf diseases using TensorFlo
     ```
     
 
-![Untitled video - Made with Clipchamp](https://github.com/athanasiagrigoridou/Tomato-Leaf-Diseases-TensorFlow-Object-Detection/assets/167294620/38607735-eea9-42a5-912c-4717f9d66c2f)
-
+<div align="center">
+    <img src="https://github.com/athanasiagrigoridou/Tomato-Leaf-Diseases-TensorFlow-Object-Detection/assets/167294620/38607735-eea9-42a5-912c-4717f9d66c2f" alt="Example GIF">
+</div>
 
 
 7. Calculate mAP (mean Average Precision):
