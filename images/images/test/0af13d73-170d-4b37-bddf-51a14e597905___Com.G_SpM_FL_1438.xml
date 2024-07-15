@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato_Spider_mites_Two_spotted_spider_mite</folder>
+	<filename>0af13d73-170d-4b37-bddf-51a14e597905___Com.G_SpM_FL 1438.JPG</filename>
+	<path>C:\Users\athan\Desktop\images\Tomato_Spider_mites_Two_spotted_spider_mite\0af13d73-170d-4b37-bddf-51a14e597905___Com.G_SpM_FL 1438.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato_Spider_mites_Two_spotted_spider_mite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>16</ymin>
+			<xmax>211</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

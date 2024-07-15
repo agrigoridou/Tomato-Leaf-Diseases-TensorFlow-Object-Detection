@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato__Tomato_mosaic_virus</folder>
+	<filename>0f47e5f6-7271-45c8-8364-e962dedd83c9___PSU_CG 2148.JPG</filename>
+	<path>C:\Users\athan\Desktop\images\Tomato__Tomato_mosaic_virus\0f47e5f6-7271-45c8-8364-e962dedd83c9___PSU_CG 2148.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato__Tomato_mosaic_virus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>14</ymin>
+			<xmax>237</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato_Septoria_leaf_spot</folder>
+	<filename>0a25f893-1b5f-4845-baa1-f68ac03d96ac___Matt.S_CG 7863.JPG</filename>
+	<path>C:\Users\athan\Desktop\images\Tomato_Septoria_leaf_spot\0a25f893-1b5f-4845-baa1-f68ac03d96ac___Matt.S_CG 7863.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato_Septoria_leaf_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>27</ymin>
+			<xmax>237</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

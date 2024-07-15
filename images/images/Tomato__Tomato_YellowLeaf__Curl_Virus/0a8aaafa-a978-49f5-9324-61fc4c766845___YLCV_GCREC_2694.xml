@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato__Tomato_YellowLeaf__Curl_Virus</folder>
+	<filename>0a8aaafa-a978-49f5-9324-61fc4c766845___YLCV_GCREC 2694.JPG</filename>
+	<path>C:\Users\athan\Desktop\images\Tomato__Tomato_YellowLeaf__Curl_Virus\0a8aaafa-a978-49f5-9324-61fc4c766845___YLCV_GCREC 2694.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato__Tomato_YellowLeaf__Curl_Virus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>24</ymin>
+			<xmax>197</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

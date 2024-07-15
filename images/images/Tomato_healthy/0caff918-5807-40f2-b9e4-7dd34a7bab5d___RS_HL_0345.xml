@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato_healthy</folder>
+	<filename>0caff918-5807-40f2-b9e4-7dd34a7bab5d___RS_HL 0345.JPG</filename>
+	<path>C:\Users\athan\Desktop\images\Tomato_healthy\0caff918-5807-40f2-b9e4-7dd34a7bab5d___RS_HL 0345.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>3</ymin>
+			<xmax>212</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>
