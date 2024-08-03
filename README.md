@@ -12,7 +12,7 @@ This repository contains code for detecting tomato leaf diseases using TensorFlo
 1. Clone the TensorFlow models repository:
 
     ```bash
-    !pip uninstall Cython -y # Temporary fix for "No module named 'object_detection'" error
+    !pip uninstall Cython -y 
     !git clone --depth 1 https://github.com/tensorflow/models
     ```
 
