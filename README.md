@@ -5,7 +5,7 @@
 </div>
 
 
-This repository contains code for detecting tomato leaf diseases using TensorFlow Object Detection API. The project includes scripts to set up the environment, train a custom object detection model using TensorFlow 2.x, convert the trained model to TensorFlow Lite format, and perform inference using the TFLite model.
+This repository contains code for detecting tomato leaf diseases using TensorFlow Object Detection. The project includes scripts to set up the environment, train a custom object detection model using TensorFlow 2.x, convert the trained model to TensorFlow Lite format, and perform inference using the TFLite model.
 
 ## Installation
 
